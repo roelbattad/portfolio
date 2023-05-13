@@ -5,8 +5,16 @@ module.exports = {
     ],
     theme: {
       extend: {
+        fontFamily: {
+            montserrat: ['Montserrat'],
+            montserratAlternates: ['Montserrat Alternates']
+        },
         colors: {
-            'mainBackground': '#252816',
+            'main-background-under': '#abbed2',
+            'main-background-over': '#1b242f',
+            'highlights': '#f0f0ef',
+            // 'highlights': '#F2FE00',
+            // 'sentences' : '#FCFDF2',
         },
       },
     },
