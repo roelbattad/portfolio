@@ -12,6 +12,7 @@ module.exports = {
         colors: {
             'main-background-under': '#abbed2',
             'main-background-over': '#1b242f',
+            'mobile-menu' : '#4b6078',
             'highlights': '#f0f0ef',
             // 'highlights': '#F2FE00',
             // 'sentences' : '#FCFDF2',

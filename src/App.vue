@@ -1,6 +1,6 @@
 <template>
   <div class="bg-main-background-under text-highlights font-montserrat">
-    <div class="max-w-screen-xl bg-main-background-over mx-auto h-screen">
+    <div class="max-w-screen-xl bg-main-background-over mx-auto h-screen relative">
       <NavBar></NavBar>
       <HomePage />
     </div>
