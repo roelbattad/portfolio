@@ -9,31 +9,35 @@ import ContactsPage from './components/ContactsPage.vue';
 
 // Define your routes
 const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: HomePage,
-  },
-  {
-    path: '/about',
-    name: 'About',
-    component: AboutPage,
-  },
-  {
-    path: '/projects',
-    name: 'Projects',
-    component: ProjectsPage,
-  },
-  {
-    path: '/job-history',
-    name: 'Job-History',
-    component: JobHistoryPage,
-  },
-  {
-    path: '/contacts',
-    name: 'Contacts',
-    component: ContactsPage,
-  },
+    {
+        path: '/portfolio',
+        name: 'Home',
+        component: HomePage,
+    },
+    {
+        path: '/about',
+        name: 'About',
+        component: AboutPage,
+    },
+    {
+        path: '/projects',
+        name: 'Projects',
+        component: ProjectsPage,
+    },
+    {
+        path: '/job-history',
+        name: 'Job-History',
+        component: JobHistoryPage,
+    },
+    {
+        path: '/contacts',
+        name: 'Contacts',
+        component: ContactsPage,
+    },
+    {
+        path: '/:catchAll(.*)',
+        redirect: '/portfolio'
+    }
 ];
 
 // Create the router instance

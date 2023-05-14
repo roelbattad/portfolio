@@ -16,7 +16,7 @@ module.exports = {
             'mobile-menu' : '#4b6078',
             'highlights': '#f0f0ef',
             // 'highlights': '#F2FE00',
-            // 'sentences' : '#FCFDF2',
+            'sentences' : '#abbed2',
         },
       },
     },

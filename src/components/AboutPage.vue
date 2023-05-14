@@ -1,6 +1,6 @@
 <template>
 <div class="p-3 sm:px-12">
-  <div class="max-w-7xl mx-auto">
+  <div class="max-w-7xl mx-auto h-screen">
     About me
   </div>
 </div>
