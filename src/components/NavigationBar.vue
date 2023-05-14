@@ -1,7 +1,7 @@
 <template>
 <div>
     <div class="flex items-center justify-between p-3 md:hidden">
-        <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/">battad</router-link></p>
+        <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/portfolio/">battad</router-link></p>
         <div class="cursor-pointer" @click.stop="showNav">
             <img src="../assets/icons/menu.svg" alt="menu" class="h-10 w-10" style="filter: invert(98%) sepia(7%) saturate(1631%) hue-rotate(296deg) brightness(113%) contrast(88%);">
         </div>
@@ -13,22 +13,22 @@
                 </div>
             </div>
             <ul class="text-3xl text-center">
-                <li class="py-4" @click="closeNav"><router-link to="/about" active-class="font-bold">about</router-link></li>
-                <li class="py-4" @click="closeNav"><router-link to="/projects" active-class="font-bold">projects</router-link></li>
-                <li class="py-4" @click="closeNav"><router-link to="/job-history" active-class="font-bold">job history</router-link></li>
-                <li class="py-4" @click="closeNav"><router-link to="/contacts" active-class="font-bold">contacts</router-link></li>
+                <li class="py-4" @click="closeNav"><router-link to="/portfolio/about" active-class="font-bold">about</router-link></li>
+                <li class="py-4" @click="closeNav"><router-link to="/portfolio/projects" active-class="font-bold">projects</router-link></li>
+                <li class="py-4" @click="closeNav"><router-link to="/portfolio/job-history" active-class="font-bold">job history</router-link></li>
+                <li class="py-4" @click="closeNav"><router-link to="/portfolio/contacts" active-class="font-bold">contacts</router-link></li>
             </ul>
         </div>
     </div>
     <div class="bg-menu-background px-12">
         <div class="mx-auto max-w-7xl hidden md:flex justify-between py-3 items-center">
-            <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/">roel battad</router-link></p>
+            <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/portfolio/">roel battad</router-link></p>
             <div>
                 <ul class="text-xl flex space-x-6 font-medium">
-                    <li><router-link to="/about" active-class="font-bold">about</router-link></li>
-                    <li><router-link to="/projects" active-class="font-bold">projects</router-link></li>
-                    <li><router-link to="/job-history" active-class="font-bold">job history</router-link></li>
-                    <li><router-link to="/contacts" active-class="font-bold">contacts</router-link></li>
+                    <li><router-link to="/portfolio/about" active-class="font-bold">about</router-link></li>
+                    <li><router-link to="/portfolio/projects" active-class="font-bold">projects</router-link></li>
+                    <li><router-link to="/portfolio/job-history" active-class="font-bold">job history</router-link></li>
+                    <li><router-link to="/portfolio/contacts" active-class="font-bold">contacts</router-link></li>
                 </ul>
             </div>
         </div>
