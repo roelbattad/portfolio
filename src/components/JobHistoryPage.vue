@@ -29,8 +29,8 @@
                                             <p>We created an e-commerce platform that our sales team uses to sell the company's own products and the partner brands products. Users that wants to start a dropshipping business can start selling using our platform. Products available for selling are specially tailored based on the users preferences.</p>
                                         </li>
                                         <li class="flex flex-col mt-4">
-                                            <p>Technology:<span class="ml-4">Tailwind CSS, Alpine JS, Laravel & Livewire</span></p>
-                                            <p>API Integrations:<span class="ml-4">Stripe, Xendit, Ipapi, Sendinblue (now Brevo) & Amazon MCF</span></p>
+                                            <p>Technology:<span class="lg:ml-4">Tailwind CSS, Alpine JS, Laravel & Livewire</span></p>
+                                            <p>API Integrations:<span class="lg:ml-4">Stripe, Xendit, Ipapi, Sendinblue (now Brevo) & Amazon MCF</span></p>
                                         </li>
                                     </ul>
                                 </div>
@@ -59,8 +59,8 @@
                                             <p>I developed the mobile quick menu app. The app can be installed by store owners for the convenience of its users. It provides seamless navigation experience without obstructing the customers experience. I helped in developing the back-in-stock notification app. The app can also be installed by store owners who wants to improve the user experience of its customers by giving them a way to give permission that they want to be notified when the product is back in stock.</p>
                                         </li>
                                         <li class="flex flex-col mt-4">
-                                            <p>Technology:<span class="ml-4">Laravel, JQuery & Vue JS</span></p>
-                                            <p>API Integrations:<span class="ml-4">Cafe 24 Admin Api (private) and Cafe24 Store Api (private)</span></p>
+                                            <p>Technology:<span class="lg:ml-4">Laravel, JQuery & Vue JS</span></p>
+                                            <p>API Integrations:<span class="lg:ml-4">Cafe 24 Admin Api (private) and Cafe24 Store Api (private)</span></p>
                                         </li>
                                     </ul>
                                 </div>
