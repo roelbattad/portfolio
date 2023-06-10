@@ -3,7 +3,7 @@
         <div class="max-w-7xl mx-auto min-h-screen">
             <div class="h-16 -mt-16"></div>
             <header>
-                <h1 class="text-3xl lg:4xl font-bold max-w-2xl mt-8 lg:mt-16 font-montserrat">Past Roles to Present Expertise: <br> Job History Showcase</h1>
+                <h1 class="text-3xl lg:4xl font-bold max-w-2xl mt-8 lg:mt-16 font-montserrat">Past Roles to Present: <br> Job History Showcase</h1>
             </header>
             <div class="my-8 lg:my-16">
                 <div class="mx-auto max-w-2xl lg:max-w-7xl">
@@ -11,14 +11,14 @@
                         <article class="md:grid md:grid-cols-4 md:items-baseline">
                             <div class="md:col-span-3 group relative flex flex-col items-start">
                                 <h2 class="text-base font-semibold tracking-tight text-highlights">
-                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
                                     <a href="javascript:;">
                                         <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                         <span class="relative z-10">Full stack Developer - Summer International Phil. under Gushcloud International Inc.</span>
                                     </a>
                                 </h2>
-                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-05">
-                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span></span>April 19, 2021
+                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500 pl-3.5" datetime="2022-09-05">
+                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-500"></span></span>April 19, 2021
                                 </time>
                                 <div class="relative z-10 mt-2 text-sm text-sentences">
                                     <ul>
@@ -35,20 +35,20 @@
                                     </ul>
                                 </div>
                             </div>
-                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2023-XX-XX">April 19, 2021 - Present
+                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500" datetime="2023-XX-XX">April 19, 2021 - Present
                             </time>
                         </article>
                         <article class="md:grid md:grid-cols-4 md:items-baseline">
                             <div class="md:col-span-3 group relative flex flex-col items-start">
-                                <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+                                <h2 class="text-base font-semibold tracking-tight text-zinc-100">
+                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95  opacity-0 transition group-hover:scale-100 group-hover:opacity-100 bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
                                     <a href="javascript:;">
                                         <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                         <span class="relative z-10">PHP Developer - Cafe24 Philippines</span>
                                     </a>
                                 </h2>
-                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2022-09-05">
-                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span></span>July 2019 - April 2021 
+                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500 pl-3.5" datetime="2022-09-05">
+                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-500"></span></span>July 2019 - April 2021 
                                 </time>
                                 <div class="relative z-10 mt-2 text-sm text-sentences">
                                     <ul>
@@ -65,20 +65,20 @@
                                     </ul>
                                 </div>
                             </div>
-                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2021-XX-XX">July 2019 - April 2021 
+                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500" datetime="2021-XX-XX">July 2019 - April 2021 
                             </time>
                         </article>
                         <article class="md:grid md:grid-cols-4 md:items-baseline">
                             <div class="md:col-span-3 group relative flex flex-col items-start">
-                                <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+                                <h2 class="text-base font-semibold tracking-tight text-zinc-100">
+                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
                                     <a href="javascript:;">
                                         <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                         <span class="relative z-10">Project in Charge - Net Pacific Inc.</span>
                                     </a>
                                 </h2>
-                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2018-09-05">
-                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500"></span></span>July 2018 - April 2019 
+                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500 pl-3.5" datetime="2018-09-05">
+                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-500"></span></span>July 2018 - April 2019 
                                 </time>
                                 <div class="relative z-10 mt-2 text-sm text-sentences">
                                     <ul>
@@ -91,20 +91,20 @@
                                     </ul>
                                 </div>
                             </div>
-                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="20118-XX-XX">July 2018 - April 2019 
+                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500" datetime="20118-XX-XX">July 2018 - April 2019 
                             </time>
                         </article>
                         <article class="md:grid md:grid-cols-4 md:items-baseline">
                             <div class="md:col-span-3 group relative flex flex-col items-start">
-                                <h2 class="text-base font-semibold tracking-tight text-zinc-800 dark:text-zinc-100">
-                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-50 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 dark:bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
+                                <h2 class="text-base font-semibold tracking-tight text-zinc-100">
+                                    <div class="absolute -inset-x-4 -inset-y-6 z-0 scale-95 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 bg-zinc-800/50 sm:-inset-x-6 sm:rounded-2xl"></div>
                                     <a href="javascript:;">
                                         <span class="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
                                         <span class="relative z-10">Application Development Associate (Associate Software Engineer) - Accenture</span>
                                     </a>
                                 </h2>
-                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500 pl-3.5" datetime="2017-09-05">
-                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-200 dark:bg-zinc-500">
+                                <time class="md:hidden relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500 pl-3.5" datetime="2017-09-05">
+                                    <span class="absolute inset-y-0 left-0 flex items-center" aria-hidden="true"><span class="h-4 w-0.5 rounded-full bg-zinc-500">
                                     </span></span>Feb 2017 - April 2018
                                 </time>
                                 <div class="relative z-10 mt-2 text-sm text-sentences">
@@ -118,7 +118,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-400 dark:text-zinc-500" datetime="2017-XX-XX">Feb 2017 - April 2018
+                            <time class="mt-1 hidden md:block relative z-10 order-first mb-3 flex items-center text-sm text-zinc-500" datetime="2017-XX-XX">Feb 2017 - April 2018
                             </time>
                         </article>
                     </div>
