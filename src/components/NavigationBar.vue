@@ -1,6 +1,6 @@
 <template>
 <div class="h-16 sticky top-0 z-50">
-    <div class="bg-menu-background flex items-center justify-between p-3 md:hidden">
+    <div class="bg-main-background-over bg-opacity-90 flex items-center justify-between p-3 md:hidden">
         <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/portfolio/">battad</router-link></p>
         <div class="cursor-pointer" @click.stop="showNav">
             <img src="../assets/icons/menu.svg" alt="menu" class="h-10 w-10" style="filter: invert(98%) sepia(7%) saturate(1631%) hue-rotate(296deg) brightness(113%) contrast(88%);">
@@ -20,7 +20,7 @@
             </ul>
         </div>
     </div>
-    <div class="bg-menu-background px-12">
+    <div class="bg-main-background-over bg-opacity-90 px-12">
         <div class="mx-auto max-w-7xl hidden md:flex justify-between py-3 items-center">
             <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/portfolio/">roel battad</router-link></p>
             <div>
