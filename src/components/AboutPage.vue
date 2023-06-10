@@ -1,12 +1,16 @@
 <template>
 <div class="-mt-16 min-h-screen">
     <div class="h-16"></div>
-    <div class="max-w-2xl mx-auto my-8 lg:my-16 px-4">
-        <div class="relative md:w-2/3 mx-auto">
-            <img class="absolute top-0 h-80 w-full object-cover mix-blend-multiply rounded-xl" src="../assets/img/gradient.webp" alt="">
-            <img class="top-0 h-80 w-full object-cover rounded-xl" src="../assets/img/mountain.webp" alt="">
+    <div class="max-w-5xl mx-auto my-8 lg:my-16 px-4 lg:px-0">
+        <div class="grid grid-cols-2 gap-8 place-items-center">
+          <div class="order-2 md:order-1 col-span-2 md:col-span-1">
+            <h1 class="text-4xl md:text-5xl font-bold max-w-2xl font-montserrat">Hi! I live in the Philippines and here is my web development odyssey.</h1>
+          </div>
+          <div class="order-1 md:order-2 col-span-2 md:col-span-1 relative mx-auto">
+            <img class="absolute top-0 h-60 md:h-80 lg:h-72 w-full object-cover mix-blend-multiply rounded-xl" src="../assets/img/gradient.webp" alt="">
+            <img class="top-0 h-60 md:h-80 lg:h-72 w-full object-cover rounded-xl" src="../assets/img/mountain.webp" alt="">
+          </div>
         </div>
-        <h1 class="text-3xl lg:text-4xl font-bold max-w-2xl font-montserrat mt-4 md:mt-8">Hi! I am Roel Battad. I live in the Philippines where I make dreams come true and here is my web development odyssey.</h1>
         <p class="text-sentences mt-4 md:mt-8 text-xl">My journey into the world of technology began with aspirations of becoming an electronics engineer. However, fate had different plans for me when I unexpectedly landed a job in the IT industry back in 2017. Despite this deviation from my original path, I embraced the opportunity and embarked on an exciting new adventure. In 2018, driven by an inherent curiosity and a desire to broaden my horizons, I made a bold decision to step out of my comfort zone and explore the field of electronics and communications. It was a risk worth taking as it exposed me to a wealth of knowledge and experiences that would shape my future endeavors.</p>
 
         <p class="text-sentences mt-4 md:mt-8 text-xl">In 2019, recognizing the increasing prominence of web development, I set my sights on mastering this dynamic domain. However, I quickly realized that self-study alone wouldn't suffice in achieving my goals. Determined to acquire comprehensive skills and expertise, I made the decision to enroll in a web development coding bootcamp. The experience proved transformative, as it provided me with a solid foundation in various programming languages, frameworks, and best practices. Armed with newfound knowledge and fueled by an unyielding passion, I eagerly delved into the realm of software development.</p>

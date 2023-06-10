@@ -1,6 +1,6 @@
 <template>
 <div class="bg-opacity-0 px-4 md:px-12 border-sentences border-t-2 z-50">
-    <div class="mx-auto max-w-7xl py-4 items-center">
+    <div class="mx-auto max-w-5xl py-4 items-center">
         <div>
             <ul class="text-lg flex justify-start space-x-2 text-sm">
                 <li><router-link to="/portfolio" active-class="font-bold">home</router-link></li>

@@ -1,6 +1,6 @@
 <template>
-    <div class="p-3 sm:px-12">
-        <div class="max-w-7xl mx-auto min-h-screen">
+    <!-- <div class="p-3 sm:px-12"> -->
+        <div class="max-w-5xl mx-auto min-h-screen">
             <div class="h-16 -mt-16"></div>
             <header>
                 <h1 class="text-3xl lg:text-4xl font-bold max-w-2xl mt-8 lg:mt-16 font-montserrat">Past Roles to Present: <br> Job History Showcase</h1>
@@ -122,7 +122,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    <!-- </div> -->
 </template>
 
 <script>
