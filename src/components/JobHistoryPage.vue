@@ -3,9 +3,9 @@
         <div class="max-w-5xl mx-auto min-h-screen">
             <div class="h-16 -mt-16"></div>
             <header>
-                <h1 class="text-3xl lg:text-4xl font-bold max-w-2xl mt-8 lg:mt-16 font-montserrat">Past Roles to Present: <br> Job History Showcase</h1>
+                <h1 class="text-3xl lg:text-5xl font-bold max-w-2xl mt-8 lg:mt-16 font-montserrat px-4 lg:px-0">Past Roles to Present: <br> Job History Showcase</h1>
             </header>
-            <div class="my-8 lg:my-16">
+            <div class="my-8 lg:my-16 px-4 lg:px-0">
                 <div class="mx-auto max-w-2xl lg:max-w-7xl">
                     <div class="flex max-w-5xl flex-col space-y-12 lg:space-y-16">
                         <article class="md:grid md:grid-cols-4 md:items-baseline">

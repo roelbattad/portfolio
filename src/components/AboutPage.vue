@@ -7,8 +7,8 @@
             <h1 class="text-4xl md:text-5xl font-bold max-w-2xl font-montserrat">Hi! I live in the Philippines and here is my web development odyssey.</h1>
           </div>
           <div class="order-1 md:order-2 col-span-2 md:col-span-1 relative mx-auto">
-            <img class="absolute top-0 h-60 md:h-80 lg:h-72 w-full object-cover mix-blend-multiply rounded-xl" src="../assets/img/gradient.webp" alt="">
-            <img class="top-0 h-60 md:h-80 lg:h-72 w-full object-cover rounded-xl" src="../assets/img/mountain.webp" alt="">
+            <img class="absolute top-0 h-60 md:h-80 lg:h-72 w-full object-cover mix-blend-multiply rounded-xl" src="../assets/img/gradient.webp" alt="" decoding="async">
+            <img class="top-0 h-60 md:h-80 lg:h-72 w-full object-cover rounded-xl" src="../assets/img/mountain.webp" alt="" decoding="async">
           </div>
         </div>
         <p class="text-sentences mt-4 md:mt-8 text-xl">My journey into the world of technology began with aspirations of becoming an electronics engineer. However, fate had different plans for me when I unexpectedly landed a job in the IT industry back in 2017. Despite this deviation from my original path, I embraced the opportunity and embarked on an exciting new adventure. In 2018, driven by an inherent curiosity and a desire to broaden my horizons, I made a bold decision to step out of my comfort zone and explore the field of electronics and communications. It was a risk worth taking as it exposed me to a wealth of knowledge and experiences that would shape my future endeavors.</p>

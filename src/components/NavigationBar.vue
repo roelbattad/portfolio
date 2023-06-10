@@ -20,7 +20,7 @@
             </ul>
         </div>
     </div>
-    <div class="bg-main-background-over bg-opacity-90">
+    <div class="bg-main-background-over bg-opacity-90 px-4">
         <div class="mx-auto max-w-5xl hidden md:flex justify-between py-3 items-center">
             <p class="font-montserratAlternates font-bold text-4xl tracking-tighter"><router-link to="/portfolio/">roel battad</router-link></p>
             <div>
