@@ -28,11 +28,6 @@
     </div>
 </template>
 
-<style scoped>
-.bg-contacts {
-    background-image: url('../assets/img/bg-contacts.jpg');
-}
-</style>
 <script>
 import { onMounted } from 'vue';
 export default {

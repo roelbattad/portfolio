@@ -3,3 +3,7 @@
 @tailwind utilities;
 @import url('../fonts/montserrat-alternate.css');
 @import url('../fonts/montserrat.css');
+
+.bg-contacts {
+    background-image: url('../img/bg-contacts.webp');
+}
